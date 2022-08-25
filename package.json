@@ -1,8 +1,8 @@
 {
   "devDependencies": {
-    "@swc-node/register": "^1.5.1",
+    "@swc/register": "^0.1.10",
     "@swc/cli": "^0.1.57",
-    "@swc/core": "^1.2.218",
+    "@swc/core": "^1.2.241",
     "typescript": "^4.7.4"
   }
 }

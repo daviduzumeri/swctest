@@ -1,0 +1,9 @@
+{
+  "jsc": {
+    "parser": {
+      "syntax": "typescript"
+    }
+  },
+  "sourceMaps": true,
+  "inlineSourcesContent": true
+}
